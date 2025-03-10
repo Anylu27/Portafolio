@@ -1,11 +1,12 @@
 ## 🚀 **Mi Portafolio de Programador Jr.**  
 
 ### 📌 **Sobre mí**  
-Soy una programador junior. Me apasiona el desarrollo de software y siempre estoy aprendiendo nuevas herramientas y técnicas.  
+Soy una estudiante de Sistemas y Programación con experiencia en Soporte Técnico. Me apasiona el desarrollo de software y siempre estoy aprendiendo nuevas herramientas y técnicas.  
 
 ### 🔧 **Tecnologías y Habilidades**  
-- **Lenguajes:** Python, JavaScript, HTML, CSS. 
+- **Lenguajes:** Python, JavaScript, HTML, CSS.
 - **Herramientas:** Github
+- **Otros**: Software y Hardware.
   
 ### 📂 **Proyectos Destacados**  
 🔹 **[Nombre del Proyecto 1]** – Breve descripción y tecnologías usadas. [Enlace al repositorio]  
